@@ -1,8 +1,3 @@
-// console.log('Connected');
-
-
 window.onload = function () {
-    console.log('HOST',window.location.host);
-    
-  window.location.href = "biolytica://app/";
+  window.location.href = "biolytica://app/client/profile'";
 };
